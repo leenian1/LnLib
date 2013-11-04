@@ -2,6 +2,6 @@
 
 (function(){
    var Test = function(){
-       
+       var b ="2";
    } 
  })();
